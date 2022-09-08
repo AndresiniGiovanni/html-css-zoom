@@ -1,0 +1,14 @@
+/* UTILITY */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* DA CANCELLARE */
+.debug {
+  border: 1px solid black;
+}
+
+body{
+    background-color: #000;
+}
